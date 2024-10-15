@@ -1,4 +1,4 @@
-import style from './crew.css'
+import style from "./crew.css";
 const OurCrew = () => {
   // TASK - React 1 week 1
   // Create the "Our Crew section"
@@ -24,9 +24,9 @@ const OurCrew = () => {
         <li>
           <img src="/crew/image-victor-glover.png" />
           <p>
-            Chief Engineer Hana Lee: With her extensive background in aerospace
+            Chief Engineer Hana Lee: With his extensive background in aerospace
             engineering, Hana Lee is responsible for the state-of-the-art
-            technology that powers our spacecraft. Her innovation ensures that
+            technology that powers our spacecraft. His innovation ensures that
             our travelers are always in safe hands.
           </p>
         </li>
