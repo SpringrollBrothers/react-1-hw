@@ -1,3 +1,4 @@
+import style from './values.css'
 const OurValues = () => {
   // TASK - React 1 week 1
   // Create the "Our Values" section
@@ -44,3 +45,4 @@ const OurValues = () => {
     </div>
   );
 };
+export default OurValues;

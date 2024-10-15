@@ -20,9 +20,9 @@ export const Crew = () => {
           <h2>The crew</h2>
           <OurCrew />
         </section>
-        <OurPartners />
         {/* TASK - React 1 week 1 */}
         {/* Add in the "OurPartners" component here */}
+        <OurPartners />
       </main>
     </div>
   );
