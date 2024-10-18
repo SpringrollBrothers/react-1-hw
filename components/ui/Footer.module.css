@@ -43,8 +43,19 @@
 
 .footerList {
   list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
 }
 
 .footerList li {
   padding-block: var(--spacing-04);
+  display: flex;
+  align-items: center;
+}
+
+.footerList img {
+  width: 20px;
+  height: auto;
+  margin-right: var(--spacing-08);
 }

@@ -12,3 +12,4 @@ export const SocialMediaItem = ({ url, title, icon }) => {
     </>
   );
 };
+export default SocialMediaItem;
