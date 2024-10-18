@@ -1,0 +1,17 @@
+.partner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  padding: 20;
+}
+
+.partner-container li {
+  margin: 10px 10px;
+}
+
+.partner-container img {
+  width: 100px;
+  height: auto;
+}
